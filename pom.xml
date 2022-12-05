@@ -22,7 +22,7 @@
            </dependency>
        </dependencies>
        <!-- end::joda[] -->
-       
+    <finalName>app</finalName>
     <build>
         <plugins>
             <plugin>
